@@ -67,7 +67,6 @@ api_rest()
 Neste exemplo, criamos uma API REST simulada para gestão de quartos de hotel. As funções `listar_quartos_disponiveis`, `reservar_quarto` e `liberar_quarto` realizam operações relacionadas à listagem de quartos disponíveis, reserva e liberação de quartos, respectivamente. A função `api_rest` serve como ponto de entrada da API, apresentando um menu de opções para o usuário escolher. As operações são realizadas com base nas escolhas do usuário e utilizando as estruturas `if`, `while`, `for` e o dicionário `quartos` para armazenar os dados dos quartos.
 
 
-Claro! Vamos analisar o código em detalhes:
 
 1. **Definição do Dicionário de Quartos**:
 ```python
