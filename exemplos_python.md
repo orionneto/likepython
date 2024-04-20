@@ -1,17 +1,14 @@
-## Exercícios Intermediários de Python para Instrumentalização de Equipamentos Eletrônicos - Exemplos
+## Exercícios de Python para Instrumentalização de Equipamentos Eletrônicos - Exemplos
 
-**Menu de Exemplos:**
+---
 
-1. [Verificação de Tensão](#1-verificação-de-tensão)
-2. [Controle de Temperatura](#2-controle-de-temperatura)
-3. [Aquisição de Dados](#3-aquisição-de-dados)
-4. [Uso de Lista](#4-uso-de-lista)
-5. [Dicionário](#5-dicionário)
-6. [Uso de Funções](#6-uso-de-funções)
-7. [Uso de Funções com Argumento](#7-uso-de-funções-com-argumento)
-8. [Uso Lista + Uso do If e Else](#8-uso-lista--uso-do-if-e-else)
-9. [Uso de Operadores Lógicos](#9-uso-de-operadores-lógicos)
-10. [Uso While + Uso de Laço For, + Uso de Lista + Uso de Operadores Lógicos](#10-uso-while--uso-de-laço-for--uso-de-lista--uso-de-operadores-lógicos)
+Uma das práticas mais eficazes para aprender programação é a copiar e anotar códigos enquanto se estuda. Portanto, recomendamos que você utilize uma folha para realizar a cópia e anotações dos códigos apresentados durante o curso. Esse processo permite não apenas a memorização, mas também a compreensão profunda da lógica por trás de cada exemplo.
+
+Além disso, encorajamos você a modificar os exemplos fornecidos e a escrever seu próprio código. Essa prática não apenas consolida seu entendimento dos conceitos apresentados, mas também desenvolve suas habilidades de resolução de problemas e criatividade na programação.
+
+Lembre-se de revisar e refletir sobre o código escrito, buscando compreender não apenas o "como", mas também o "porquê" de cada instrução.
+
+--- 
 
 **1. Verificação de Tensão**
 
